@@ -1,5 +1,5 @@
 # Hi there 👋 
-## I'm Artyom Andronov  
+## I'm Artem Andronov  
 
 - 🌟 "We're here for a short time, so it's important to grow and create something meaningful today."  
 - 👨‍🔬 I love exact sciences and a scientific/engineering approach to challenges.  
